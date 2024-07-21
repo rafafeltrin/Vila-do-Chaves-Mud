@@ -1,2 +1,128 @@
-#3000
-$
+#3200
+seu barriga~
+o seu barriga~
+O Seu Barriga está aqui, caminhando pela rua e verificando suas propriedades.
+~
+O Seu Barriga é um homem robusto, vestindo um terno preto elegante. Ele está sempre atento às suas propriedades e parece estar procurando alguém.
+~
+g 0 100 S
+20 10 -5 10d10+50 1d4+5
+10000 1000
+8 8 1
+
+
+#3201
+professor prof girafales~
+O Professor Girafales~
+O Professor Girafales está aqui, planejando sua próxima aula.
+~
+Um homem alto e magro, com cabelos negros e um bigode fino. Ele veste terno escuro, gravata e um chapéu. Apesar da voz grave e autoritária, ele é uma pessoa gentil, especialmente com seus alunos.
+~
+bg 0 350 S
+27 17 3 6d9+10 2d4+2
+100 350
+8 8 1
+
+
+#3002
+vendedor~
+O Vendedor~
+O vendedor da lojinha está aqui, esperando você para registrar suas compras.
+~
+O vendedor é um homem velhinho, com cabelos grisalhos e um sorriso constante no rosto. Ele usa roupas simples e um avental, movendo-se com calma pela loja. Sempre feliz em atender as crianças, ele tem um olhar gentil e uma voz suave, fazendo com que todos se sintam bem-vindos.
+~
+bg -350 300 S
+30 20 7 5d8+8 2d2+3
+500 250
+8 8 1
+
+
+#3203
+dona florinda~
+A Dona Florinda~
+A Dona Florinda está aqui, atendendo os clientes e mantendo a ordem no restaurante.
+~
+Uma mulher baixa e magra, com cabelos loiros. Ela está sempre usando rolos no cabelo, um vestido xadrez vermelho e um avental azul. Ela aparenta ser uma pessoa estressada, mas é um amor com seu filho Quico e seu amante Girafales.
+~
+bg 0 300 S
+25 19 9 6d8+5 2d3+0
+80 20
+8 8 2
+
+
+#3204
+quico kiko~
+O Quico~
+O Quico está aqui, andando para lá e para cá pensando se um dia irá conseguir sua bola quadrada.
+~
+Um menino alto para a idade dele. Tem cabelos escuros e bochechas grandes. Ele está usando um chapeu colorido e uma roupa de marinheiro com um lenço vermelho.
+~
+g 0 300 S
+9 19 9 5d5+1 2d2+0
+10 100
+8 8 1
+
+
+#3205
+cachorro cachorrinho sat satanas satanás~
+Satanás~
+O cachorro da Dona Clotilde está aqui, dormindo.
+~
+Um cachorrinho magrinho. Tem a pelagem escura e uma coleira vermelha com o nome "Satanás".
+~
+g 0 -1000 S
+30 10 3 8d10+100 8d8+10
+0 10000
+8 8 1
+
+
+#3206
+bruxa do 71~
+a misteriosa bruxa do 71~
+A misteriosa Bruxa do 71 está aqui, sussurrando palavras arcanas e observando todos com um olhar penetrante.
+~
+A misteriosa Bruxa do 71 é uma mulher idosa com uma aparência assustadora. Ela veste um vestido escuro e segura um cajado. Seu olhar parece penetrar até a alma.
+~
+bg p -500 S
+30 5 -10 2d8+5 4d6+10
+100 2000
+8 8 2
+
+
+#3207
+seu madruga~
+o seu madruga~
+O esperto Seu Madruga está aqui, encostado na parede e observando o movimento.
+~
+O Seu Madruga é um homem magro, com bigode e vestindo uma camisa azul surrada. Ele parece estar sempre tramando algo ou evitando o trabalho.
+~
+bg 0 100 S
+20 15 5 5d10+20 2d6+3
+0 500
+8 8 1
+
+
+#3208
+chiquinha~
+a travessa chiquinha~
+A travessa Chiquinha está aqui, correndo pela vila e aprontando travessuras.
+~
+A travessa Chiquinha é uma menina pequena com tranças, vestindo um vestido colorido. Ela está sempre correndo e fazendo travessuras, trazendo vida à vila.
+~
+g 0 200 S
+5 12 0 3d6+10 1d3+2
+10 700
+8 8 2
+
+
+#3209
+chaves~
+o Chaves~
+O Chaves está aqui, procurando por comida e se metendo em confusões.
+~
+O Chaves é um garoto órfão que vive em um barril na vila. Ele veste um gorro com orelhas, uma camisa listrada de manga curta, calças verdes e um suspensório. Sempre faminto e buscando por aventuras, Chaves é inocente e um tanto atrapalhado, o que o leva a se envolver em diversas confusões.
+~
+g 0 200 S
+5 12 0 3d6+10 1d3+2
+10 700
+8 8 2

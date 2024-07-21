@@ -1,2 +1,109 @@
 #3200
+barraca barraquinha~
+uma barraquinha chique de refrescos~
+Uma barraquinha laranja de refrescos está parada na calçada.~
+~
+12 0 0
+0 0 0 0
+0 0 0
+E
+refresco refrescos~
+Há duas jarras com um pouco de refresco. Uma contém refresco de limão e outra de tamarindo.
+~
+
+
+#3201
+mesa~
+a mesa do professor~
+A mesa do professor está aqui, na frente da lousa.~
+~
+12 0 0
+0 0 0 0
+0 0 0
+E
+fruta frutas~
+Há quatro maçãs inteiras, duas maçãs comidas, uma melancia e um vidrinho com escorpião dentro (quem deu isso pro professor?)
+
+
+#3202
+caixa caixas~
+uma pilha de caixas~
+Uma pilha de caixas foi colocada aqui, na calçada.~
+~
+12 0 0
+0 0 0 0
+0 0 0
+E
+refresco refrescos~
+Há tijelas com refrescos de laranja, limão e tamarindo. Definitivamente não tem refresco de abacaxi.
+~
+
+
+#3203
+barril chaves~
+um barril pesado~
+Um barril pesado está aqui, no centro da vila.~
+~
+12 128 0
+0 0 0 0
+1000 0 0
+E
+barril~
+Um enorme barril de madeira que parece ter um significado especial nesta vila.
+~
+
+
+#3204
+bola redonda~
+uma bola redonda e grande~
+Uma bola redonda e grande está aqui, pronta para uma brincadeira.~
+~
+12 0 1 0
+2 30 5
+E
+bola redonda~
+Uma grande bola redonda, perfeita para chutar e brincar.
+~
+
+
+#3205
+caldeirão bruxa~
+um caldeirão grande~
+Um grande caldeirão está aqui, fervendo com uma poção misteriosa.~
+~
+12 128 0
+0 0 0 0
+500 0 0
+E
+caldeirão~
+Um caldeirão grande e antigo, cheio de uma poção borbulhante e misteriosa.
+~
+
+
+#3206
+album fotos antigas~
+um álbum de fotos antigas~
+Um álbum de fotos antigas está aqui, guardando memórias de uma família.~
+~
+12 0 1
+0 0 0 0
+2 10 1
+E
+familia~
+O álbum contém fotos de uma família feliz, capturando momentos de alegria e celebração.
+~
+
+
+#3207
+fonte~
+uma fonte de água~
+Uma fonte de água no centro da praça.~
+~
+23 0 0
+1000 1000 0 0
+0 0 0
+E
+barco barcos barquinho barquinhos~
+Uns barcos feitos de papel flutuando na água da fonte.
+~
 $
