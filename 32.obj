@@ -7,8 +7,11 @@ Uma barraquinha laranja de refrescos está parada na calçada.~
 0 0 0 0
 0 0 0
 E
-refresco refrescos~
-Há duas jarras com um pouco de refresco. Uma contém refresco de limão e outra de tamarindo.
+barraca barraquinha~
+Uma barraquinha toda pintada de laranja e com rodinhas
+para poder movê-la para qualquer lugar. Na frente da barraca, uma placa
+está pendurada. Há duas jarras com um pouco de refresco. Uma contém 
+refresco de limão e outra de tamarindo.
 ~
 #3201
 mesa~
@@ -19,11 +22,13 @@ A mesa do professor está aqui, na frente da lousa.~
 0 0 0 0
 0 0 0
 E
-fruta frutas~
-Há quatro maçãs inteiras, duas maçãs comidas, uma melancia e um vidrinho com escorpião dentro (quem deu isso pro professor?)
+mesa~
+Uma mesa com um caderno e um lápis. Também há quatro maçãs inteiras, 
+duas maçãs comidas, uma melancia e um vidrinho com escorpião 
+dentro (quem deu isso pro professor?)
 ~
 #3202
-caixa caixas~
+pilha caixa caixas~
 uma pilha de caixas~
 Uma pilha de caixas foi colocada aqui, na calçada.~
 ~
@@ -31,8 +36,10 @@ Uma pilha de caixas foi colocada aqui, na calçada.~
 0 0 0 0
 0 0 0
 E
-refresco refrescos~
-Há tijelas com refrescos de laranja, limão e tamarindo. Definitivamente não tem refresco de abacaxi.
+pilha caixa caixas~
+Algumas caixas empilhadas formando algum tipo de barraquinha. Há tijelas 
+com refrescos de laranja, limão e tamarindo. Definitivamente não tem refresco 
+de abacaxi.
 ~
 #3203
 barril chaves~
@@ -91,7 +98,8 @@ Uma fonte de água no centro da praça.~
 1000 1000 0 0
 0 0 0
 E
-barco barcos barquinho barquinhos~
-Uns barcos feitos de papel flutuando na água da fonte.
+fonte~
+Uma majestosa fonte de água. Uns barcos feitos de papel estão
+flutuando na água.
 ~
 $
