@@ -1,9 +1,9 @@
 #3200
 seu barriga~
 o seu barriga~
-O Seu Barriga est√° aqui, caminhando pela rua e verificando suas propriedades.
+O Seu Barriga est· aqui, caminhando pela rua e verificando suas propriedades.
 ~
-O Seu Barriga √© um homem robusto, vestindo um terno preto elegante. Ele est√° sempre atento √†s suas propriedades e parece estar procurando algu√©m.
+O Seu Barriga È um homem robusto, vestindo um terno preto elegante. Ele est· sempre atento ‡s suas propriedades e parece estar procurando alguÈm.
 ~
 g 0 100 S
 20 10 -5 10d10+50 1d4+5
@@ -12,9 +12,9 @@ g 0 100 S
 #3201
 professor prof girafales~
 O Professor Girafales~
-O Professor Girafales est√° aqui, planejando sua pr√≥xima aula.
+O Professor Girafales est· aqui, planejando sua prÛxima aula.
 ~
-Um homem alto e magro, com cabelos negros e um bigode fino. Ele veste terno escuro, gravata e um chap√©u. Apesar da voz grave e autorit√°ria, ele √© uma pessoa gentil, especialmente com seus alunos.
+Um homem alto e magro, com cabelos negros e um bigode fino. Ele veste terno escuro, gravata e um chapÈu. Apesar da voz grave e autorit·ria, ele È uma pessoa gentil, especialmente com seus alunos.
 ~
 bg 0 350 S
 27 17 3 6d9+10 2d4+2
@@ -23,9 +23,9 @@ bg 0 350 S
 #3202
 vendedor~
 O Vendedor~
-O vendedor da lojinha est√° aqui, esperando voc√™ para registrar suas compras.
+O vendedor da lojinha est· aqui, esperando vocÍ para registrar suas compras.
 ~
-O vendedor √© um homem velhinho, com cabelos grisalhos e um sorriso constante no rosto. Ele usa roupas simples e um avental, movendo-se com calma pela loja. Sempre feliz em atender as crian√ßas, ele tem um olhar gentil e uma voz suave, fazendo com que todos se sintam bem-vindos.
+O vendedor È um homem velhinho, com cabelos grisalhos e um sorriso constante no rosto. Ele usa roupas simples e um avental, movendo-se com calma pela loja. Sempre feliz em atender as crianÁas, ele tem um olhar gentil e uma voz suave, fazendo com que todos se sintam bem-vindos.
 ~
 bg -350 300 S
 30 20 7 5d8+8 2d2+3
@@ -34,9 +34,9 @@ bg -350 300 S
 #3203
 dona florinda~
 A Dona Florinda~
-A Dona Florinda est√° aqui, atendendo os clientes e mantendo a ordem no restaurante.
+A Dona Florinda est· aqui, atendendo os clientes e mantendo a ordem no restaurante.
 ~
-Uma mulher baixa e magra, com cabelos loiros. Ela est√° sempre usando rolos no cabelo, um vestido xadrez vermelho e um avental azul. Ela aparenta ser uma pessoa estressada, mas √© um amor com seu filho Quico e seu amante Girafales.
+Uma mulher baixa e magra, com cabelos loiros. Ela est· sempre usando rolos no cabelo, um vestido xadrez vermelho e um avental azul. Ela aparenta ser uma pessoa estressada, mas È um amor com seu filho Quico e seu amante Girafales.
 ~
 bg 0 300 S
 25 19 9 6d8+5 2d3+0
@@ -45,20 +45,20 @@ bg 0 300 S
 #3204
 quico kiko~
 O Quico~
-O Quico est√° aqui, andando para l√° e para c√° pensando se um dia ir√° conseguir sua bola quadrada.
+O Quico est· aqui, andando para l· e para c· pensando se um dia ir· conseguir sua bola quadrada.
 ~
-Um menino alto para a idade dele. Tem cabelos escuros e bochechas grandes. Ele est√° usando um chapeu colorido e uma roupa de marinheiro com um len√ßo vermelho.
+Um menino alto para a idade dele. Tem cabelos escuros e bochechas grandes. Ele est· usando um chapeu colorido e uma roupa de marinheiro com um lenÁo vermelho.
 ~
 g 0 300 S
 9 19 9 5d5+1 2d2+0
 10 100
 8 8 1
 #3205
-cachorro cachorrinho sat satanas satan√°s~
-Satan√°s~
-O cachorro da Dona Clotilde est√° aqui, dormindo.
+cachorro cachorrinho sat satanas satan·s~
+Satan·s~
+O cachorro da Dona Clotilde est· aqui, dormindo.
 ~
-Um cachorrinho magrinho. Tem a pelagem escura e uma coleira vermelha com o nome "Satan√°s".
+Um cachorrinho magrinho. Tem a pelagem escura e uma coleira vermelha com o nome "Satan·s".
 ~
 g 0 -1000 S
 30 10 3 8d10+100 8d8+10
@@ -67,9 +67,9 @@ g 0 -1000 S
 #3206
 bruxa do 71~
 a misteriosa bruxa do 71~
-A misteriosa Bruxa do 71 est√° aqui, sussurrando palavras arcanas enquanto prepara algo em seu caldeir√£o.
+A misteriosa Bruxa do 71 est· aqui, sussurrando palavras arcanas enquanto prepara algo em seu caldeir„o.
 ~
-A misteriosa Bruxa do 71 √© uma mulher idosa com uma apar√™ncia assustadora. Ela veste um vestido escuro e segura um cajado. Seu olhar parece penetrar at√© a alma.
+A misteriosa Bruxa do 71 È uma mulher idosa com uma aparÍncia assustadora. Ela veste um vestido escuro e segura um cajado. Seu olhar parece penetrar atÈ a alma.
 ~
 bg p -500 S
 30 5 -10 2d8+5 4d6+10
@@ -78,9 +78,9 @@ bg p -500 S
 #3207
 seu madruga~
 o seu madruga~
-O esperto Seu Madruga est√° aqui, encostado na parede e observando o movimento.
+O esperto Seu Madruga est· aqui, encostado na parede e observando o movimento.
 ~
-O Seu Madruga √© um homem magro, com bigode e vestindo uma camisa azul surrada. Ele parece estar sempre tramando algo ou evitando o trabalho.
+O Seu Madruga È um homem magro, com bigode e vestindo uma camisa azul surrada. Ele parece estar sempre tramando algo ou evitando o trabalho.
 ~
 bg 0 100 S
 20 15 5 5d10+20 2d6+3
@@ -89,9 +89,9 @@ bg 0 100 S
 #3208
 chiquinha~
 a travessa chiquinha~
-A travessa Chiquinha est√° aqui, correndo pela vila e aprontando travessuras.
+A travessa Chiquinha est· aqui, correndo pela vila e aprontando travessuras.
 ~
-A travessa Chiquinha √© uma menina pequena com tran√ßas, vestindo um vestido colorido. Ela est√° sempre correndo e fazendo travessuras, trazendo vida √† vila.
+A travessa Chiquinha È uma menina pequena com tranÁas, vestindo um vestido colorido. Ela est· sempre correndo e fazendo travessuras, trazendo vida ‡ vila.
 ~
 g 0 200 S
 5 12 0 3d6+10 1d3+2
@@ -100,9 +100,9 @@ g 0 200 S
 #3209
 chaves~
 o Chaves~
-O Chaves est√° aqui, procurando por comida e se metendo em confus√µes.
+O Chaves est· aqui, procurando por comida e se metendo em confusıes.
 ~
-O Chaves √© um garoto √≥rf√£o que vive em um barril na vila. Ele veste um gorro com orelhas, uma camisa listrada de manga curta, cal√ßas verdes e um suspens√≥rio. Sempre faminto e buscando por aventuras, Chaves √© inocente e um tanto atrapalhado, o que o leva a se envolver em diversas confus√µes.
+O Chaves È um garoto Ûrf„o que vive em um barril na vila. Ele veste um gorro com orelhas, uma camisa listrada de manga curta, calÁas verdes e um suspensÛrio. Sempre faminto e buscando por aventuras, Chaves È inocente e um tanto atrapalhado, o que o leva a se envolver em diversas confusıes.
 ~
 g 0 200 S
 5 12 0 3d6+10 1d3+2
