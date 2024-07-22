@@ -6,34 +6,30 @@ casas e lojas por todo o quarteirão, tornando seu interior um mundo
 diferente do portão afora, mais aconchegante. Apesar da simplicidade
 de sua fachada, que faz com que ela seja despercebida entre pedestres
 que passam por ali, com certeza essa vila é um lugar cheio de
-histórias e emoções. 
+histórias e emoções.
+~
 32 0 1
-
 D0
 Você vê o centro da vila.
 ~
 ~
 0 -1 3209
-
 D1
 Você vê o lado leste da rua da vila.
 ~
 ~
 0 -1 3201
-
 D3
 Você vê o lado oeste da rua da vila.
 ~
 ~
 0 -1 3204
-
 D2
 Você vê o grande campo de Midgaard.
 ~
 ~
 0 -1 3065
 S
-
 #3201
 A Leste da Rua da Vila~
    Você está na parte leste da rua da vila. 
@@ -44,22 +40,20 @@ barraquinha de refrescos bem mais bonita que a do lado oeste da
 entrada da vila, com se tivesse sido montada aqui apenas para fazer 
 inveja ao outro vendedor. Ela é toda pintada de laranja e possui rodinhas 
 para poder movê-la para qualquer lugar. Na frente da barraca, uma placa 
-está pendurada.   
+está pendurada.
+~
 32 0 1
-
 D1
 Você vê o fim da rua a leste da vila.
 ~
 ~
 0 -1 3202
-
 D3
 Você vê a fachada da vila.
 ~
 ~
 0 -1 3200
 S
-
 #3202
 Fim Leste da Rua da Vila~
    Você está no fim do lado leste da rua da vila, que termina em algumas 
@@ -68,22 +62,20 @@ paralelepípedos que, por conta do tempo e da movimentação, já estão
 desgastados. Há carros estacionados e pessoas andando por todo o 
 comprimento da rua. Ao norte tem uma escola que, pelo lado de fora, 
 parece bem pequena. Na fachada estão pintados símbolos matemáticos, 
-livros e um grande chapéu. 
+livros e um grande chapéu.
+~
 32 0 1
-
 D0
 Você vê a escola do Professor Girafales.
 ~
 ~
 1 -1 3203
-
 D1
 Você vê a parte leste da rua da vila.
 ~
 ~
 0 -1 3201
 S
-
 #3203
 A Escola do Professor Girafales~
    Um ambiente que parece ser de uma escola. As paredes são levemente 
@@ -94,14 +86,12 @@ mesas e cadeiras de alunos ocupam o restante do pequeno
 espaço.
 ~
 32 d 0
-
 D2
 Você vê a rua da vila.
 ~
 ~
 1 -1 3202
 S
-
 #3204
 A Oeste da Rua da Vila~
     Você está na parte oeste da rua da vila. A estrada é feita de paralelepípedos 
@@ -111,21 +101,19 @@ fechada se localiza ao norte, com a fachada pintada em azul e um letreiro
 pichado acima da porta do estabelecimento. Na frente do comércio, quase 
 tampando a entrada, tem algumas caixas empilhadas e umas tijelas sobre elas. 
 Apoiada nas caixas, está uma placa com o nome de alguém escrito nela.
+~
 32 0 1
-
 D1
 Você vê a fachada da vila.
 ~
 ~
 0 -1 3200
-
 D3
 Você vê o fim da rua a oeste da vila.
 ~
 ~
 0 -1 3205
 S
-
 #3205
 Fim Oeste da Rua da Vila~
    Você está no fim do lado oeste da rua da vila, que termina num comério, 
@@ -136,27 +124,24 @@ andando por todo o comprimento da rua. Ao norte, tem um belo restaurante azul
 com uma janela amarela que se destaca, atraindo você para mais perto e fazendo
 você sentir o aroma delicioso das comidas que são servidas nesse restaurante.
 Perto da porta, você vê uma placa.
+~
 32 0 1
-
 D0
 Você vê o Restaurante Florinda.
 ~
 ~
 0 -1 3207
-
 D1
 Você vê a parte oeste da rua da vila.
 ~
 ~
 0 -1 3204
-
 D3
 Você vê a venda da esquina.
 ~
 ~
 0 -1 3206
 S
-
 #3206
 A Venda~
    Você chegou numa lojinha simples, mas com uma variedade de produtos e lanches.
@@ -166,15 +151,15 @@ enormes, refrescos e o famoso sanduíche de presunto. Além disso, nas prateleir
 estão ovos, arroz, feijão, dentre outros alimentos que não podem faltar num
 almoço delicioso. O vendedor é um homem velhinho que sempre fica muito feliz 
 em atender as crianças que chegam para comprar seus produtos.
+~
 32 d 0
-
 D1
 Você vê o fim da parte oeste da rua.
 ~
 ~
 0 -1 3205
 S
-
+#3207
 Restaurante da Florinda~
    Você está em um bonito e organizado restaurante, entretanto o que mais 
 impressiona é o cheiro, são tantas notas, que entorpecem seu nariz. As paredes
@@ -189,20 +174,17 @@ funcionários, o tilintar dos utensílios e o som de pratos sendo preparados
 contribuem para a energia vibrante do restaurante.
 ~
 32 d 0
-
 D0
 Você avista a cozinha do restaurante
 ~
 ~
 1 -1 3208
-
 D2
 Você avista a rua da vila
 ~
 ~
 0 -1 3205
 S
-
 #3208
 Cozinha do Restaurante~
    Você está na cozinha, o operacional de todo esse local, a verdadeira alma
@@ -213,14 +195,12 @@ fogão onde delícias são preparadas. No centro há uma grande mesa retangular
 de madeira, muitas coisas sobre ela, como ovos, queijo, farinha e cenouras. 
 ~
 32 d 0
-
 D2
 Você a parte principal do restaurante
 ~
 ~
 1 -1 3207
 S
-
 #3209
 A Vila~
    Você está no coração da famosa vila. O chão é de paralelepípedos cinzas já
@@ -234,32 +214,27 @@ vasos de plantas ao seu rodapé levam a uma residência bege da vila. A leste e
 ao norte, a vila continua.
 ~
 32 0 1
-
 D0
 Você vê o centro da vila
 ~
 ~
 0 -1 3211
-
 D1
 Você vê o centro da vila
 ~
 ~
 0 -1 3210
-
 D2
 Você vê a entrada da vila
 ~
 ~
 0 -1 3200
-
 D4
 Você vê uma escadaria que leva a uma residência
 ~
 ~
 1 -1 3213
 S
-
 #3210
 A Vila~
    Você está no coração da famosa vila. O chão é de paralelepípedos cinzas já
@@ -273,20 +248,17 @@ Além disso, há um varal amarrado de um extremo ao outro, com um grande vestido
 azul pendurado, que mesmo após a lavagem, não esconde sua energia mágica. 
 ~
 32 0 1
-
 D0
 Você vê o centro da vila
 ~
 ~
 0 -1 3212
-
 D3
 Você vê o centro da vila
 ~
 ~
 0 -1 3209
 S
-
 #3211
 A Vila~
    Você está no coração da famosa vila. O chão é de paralelepípedos cinzas já
@@ -299,32 +271,27 @@ bege; à sua frente, dois botijões de gás cilíndricos e uma linda planta com
 flores vibrantes, que parecem dançar ao vento.
 ~
 32 0 1
-
 D0
 Você avista um corredor.
 ~
 ~
 0 -1 3219
-
 D1
 Você vê o centro da vila.
 ~
 ~
 0 -1 3212
-
 D2
 Você vê o centro da vila.
 ~
 ~
 0 -1 3209
-
 D3
 Você avista uma bonita casa bege.
 ~
 ~
 1 -1 3214
 S
-
 #3212
 A Vila~
    Você está no coração da famosa vila. O chão é de paralelepípedos cinzas já
@@ -337,26 +304,22 @@ trazendo um pouco de verde para o ambiente.
     É possível ver um recado preso à porta, balançando suavemente com a brisa.
 ~
 32 0 1
-
 D0
 Você avista uma casa azul.
 ~
 ~
 1 -1 3217
-
 D2
 Você vê o centro da vila.
 ~
 ~
 0 -1 3210
-
 D3
 Você vê o centro da vila
 ~
 ~
 0 -1 3211
 S
-
 #3213
 A Casa 23~
    Ao entrar, você é recebido por uma pequena sala de estar aconchegante. As
@@ -369,14 +332,12 @@ piso de madeira clara completam a sensação acolhedora da sala. Há uma escada
 descendo para baixo.
 ~
 32 d 0
-
 D5
 Você avista o centro da vila
 ~
 ~
 1 -1 3209
 S
-
 #3214
 A Casa 14~
     A casa transmite um ar notório ordem e cuidado. O ambiente é acolhedor,
@@ -390,14 +351,12 @@ espaço. Ao lado, uma geladeira brilhante e bem cuidada está posicionada contra
 parede, sugerindo que a cozinha está bem equipada e mantida.
 ~
 32 d 0
-
 D1
 Você vê o centro da vila
 ~
 ~
 1 -1 3211
 S
-
 #3215
 A Casa 71~
    Esta é uma casa pequena, do mesmo tamanho que a casa 72. Ela possui paredes
@@ -406,21 +365,18 @@ casa, há móveis e uma cortina com estampas bem cafonas: flores em cor bege,
 típicas de casa de avós.
 ~
 32 d 0
-
 D1
 Você vê o corredor entre os pátios da vila.
 ~
 ~
 1 -1 3219
-
 D5
 Um lugar escuro no andar inferior.
 ~
 ~
 0 -1 3216
 S
-
-#XXXX
+#3216
 Porão da Bruxa~
    Descendo as escadas, você chega num porão escuro, com uma aparência muito
 semelhante a de um covil. Há móveis com pilões, frascos de poções e velas, 
@@ -429,14 +385,12 @@ no chão, animais petrificados servindo de estáuta nas paredes e tochas
 responsáveis pela a iluminação principal do porão.
 ~
 32 d 0
-
 D4
 A sala da casa da Dona Clotilde.
 ~
 ~
 0 -1 3216
 S
-
 #3217
 A Casa 72~
    Uma casa pequena, com as paredes pintadas em azul igual ao lado de fora.
@@ -448,20 +402,17 @@ centro da casa há uma mesa de jantar com um álbum de fotos antigas, todas
 polaroides em preto e branco.
 ~
 32 d 0
-
 D0
 Você vê cômodo pequeno. Provavelmente é o quarto de alguém.
 ~
 ~
 0 -1 3218
-
 D2
 Você vê o pátio de entrada.
 ~
 ~
 1 -1 3212
 S
-
 #3218
 O Quarto da Chiquinha~
    Um quarto verde bem organizado, mas somente com uma cama e um guarda-roupa.
@@ -477,7 +428,6 @@ Você vê a área principal da casa do Seu Madruga.
 ~
 0 -1 3217
 S
-
 #3219
 Corredor entre pátios~
    Você se encontra em um corredor estreito que conecta os pátios da vila.
@@ -486,26 +436,22 @@ irregulares, levemente desgastadas pelo constante tráfego dos moradores. Ao
 oeste é possível ver porta de entrada de um residência amarela.
 ~
 32 0 1
-
 D0
 Continuação do corredor.
 ~
 ~
 0 -1 3220
-
 D2
 Você vê o pátio de entrada.
 ~
 ~
 0 -1 3211
-
 D3
 Você avista uma bonita casa amarela
 ~
 ~
 0 -1 3215
 S
-
 #3220
 Corredor entre pátios~
    Você se encontra em um corredor estreito que conecta os pátios da vila.
@@ -514,20 +460,17 @@ irregulares, levemente desgastadas pelo constante tráfego dos moradores. A
 norte é visto a entrada para a praça da vizinhança.
 ~
 32 0 1
-
 D0
 Você avista uma praça.
 ~
 ~
 0 -1 3221
-
 D2
 Continuação do corredor
 ~
 ~
 0 -1 3219
 S
-
 #3221
 A Praça da vizinhança~
     Você se encontra em uma animada praça, um espaço de constantes idas e
@@ -539,14 +482,12 @@ conversas e risadas que ecoam por toda a praça. Dentro dela flutuam simples e
 lindos barquinhos de papeis, que parecem disputar quem chegar mais rápido.
 ~
 32 0 1
-
 D1
 Você avista o corredor entre os pátios
 ~
 ~
 0 -1 3220
 S
-
 #3222
 Dentro do barril~
    Ao entrar no barril, você fica surpreso ao encontrar um espaço muito maior do
@@ -558,13 +499,11 @@ madeira para guardar seus brinquedos e um guarda-roupa com a porta entreaberta,
 revelando um pouco do seu conteúdo.
 ~
 32 d 1
-
 D4
 A escada de volta para o pátio principal.
 ~
 ~
-0 -1 XXXX
-
+0 -1 3209
 E
 guarda guarda-roupa roupa~
 Uma dezena de roupas idênticas: camisetas brancas listradas, uma calça curta
@@ -572,5 +511,4 @@ cinza e um suspensório laranja; todas as peças de roupa estão igualmente
 desgastadas e furadas.
 ~
 S
-
 $

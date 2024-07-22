@@ -1,64 +1,103 @@
 #32
-A Vila do Chaves~
-3099 15 2
-
+A vila~
+3200 3222 15 2
+*
 *Mobiles <if-flag> <mob vnum> <max existing> <room vnum>
-
-M 0 3200 1 3204        *Barriga (rua oeste)
-M 0 3201 1 3203        *Girafales (escola)
-M 0 3202 1 3206        *Vendedor (venda da esquina)
-M 0 3203 1 3207        *Florinda (restaurante)
-M 0 3204 1 3210        *Quico (vila central)
-M 0 3205 1 3215        *Satanás (casa 71)
-M 0 3206 1 3215        *Bruxa (casa 71)
-M 0 3207 1 3217        *Seu madruga (casa 72)
-M 0 3208 1 3221        *Chiquinha (Praca da vizinhanca)
-M 0 3208 1 3222        *Chaves (Barril)
-
+*
+*Barriga (rua oeste)
+M 0 3200 1 3204
+*
+*Girafales (escola)
+M 0 3201 1 3203
+*
+*Vendedor (venda da esquina)
+M 0 3202 1 3206
+*
+*Florinda (restaurante)
+M 0 3203 1 3207
+*
+*Quico (vila central)
+M 0 3204 1 3210
+*
+*Satanás (casa 71)
+M 0 3205 1 3215
+*
+*Bruxa (casa 71)
+M 0 3206 1 3215
+*
+*Seu madruga (casa 72)
+M 0 3207 1 3217
+*
+*Chiquinha (Praca da vizinhanca)
+M 0 3208 1 3221
+*
+*Chaves (Barril)
+M 0 3209 1 3222
+*
+*
+*
 *Objetos O <if-flag> <obj vnum> <max existing> <room vnum>
-
-O 0 3200 1 3201        *Barraca do quico (A leste da vila)
-O 0 3201 1 3203        *Mesa do Professor (escola)
-O 0 3202 1 3204        *Tienda del chavo (A oeste da vila)
-O 0 3203 1 3209        *Barril (centro da vila)
-O 0 3204 1 3210        *Bola (centro da vila)
-O 0 3205 1 3215        *Caldeirao (casa 71)
-O 0 3206 1 3217        *Album (casa 72)
-O 0 3206 1 3221        *Fonte (Praca da vizinhanca)
-
+*
+*Barraca do quico (A leste da vila)
+O 0 3200 1 3201
+*
+*Mesa do Professor (escola)
+O 0 3201 1 3203
+*
+*Tienda del chavo (A oeste da vila)
+O 0 3202 1 3204
+*
+*Barril (centro da vila)
+O 0 3203 1 3209
+*
+*Bola (centro da vila)
+O 0 3204 1 3210
+*
+*Caldeirao (casa 71)
+O 0 3205 1 3215
+*
+*Album (casa 72)
+O 0 3206 1 3217
+*
+*Fonte (Praca da vizinhanca)
+O 0 3207 1 3221
+*
+*
+*
 *Portas <if-flag> <room vnum> <exit num> <state>
 *0 North, 1 East, 2 South, 3 West, 4 Up, 5 Down
 *0 Open, 1 Closed
-
+*
 *Casa 23
 D 0 3213 5 1
 D 0 3209 4 1
-
+*
 *Casa 14
 D 0 3214 1 1
 D 0 3211 3 1
-
+*
 *Casa 71
 D 0 3215 1 1
 D 0 3219 3 1
-
+*
 *Casa 71 (porao)
 D 0 3215 5 1
 D 0 3216 4 1
-
+*
 *Casa 72
 D 0 3217 2 1
 D 0 3212 0 1
-
+*
 *Casa 72 (quarto)
 D 0 3218 2 1
 D 0 3217 0 1
-
+*
 *Escola
 D 0 3203 2 1
 D 0 3202 0 1
-
+*
 *Cozinha
 D 0 3208 2 1
 D 0 3207 0 1
 S
+$

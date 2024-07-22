@@ -10,8 +10,6 @@ E
 refresco refrescos~
 Há duas jarras com um pouco de refresco. Uma contém refresco de limão e outra de tamarindo.
 ~
-
-
 #3201
 mesa~
 a mesa do professor~
@@ -23,8 +21,7 @@ A mesa do professor está aqui, na frente da lousa.~
 E
 fruta frutas~
 Há quatro maçãs inteiras, duas maçãs comidas, uma melancia e um vidrinho com escorpião dentro (quem deu isso pro professor?)
-
-
+~
 #3202
 caixa caixas~
 uma pilha de caixas~
@@ -37,8 +34,6 @@ E
 refresco refrescos~
 Há tijelas com refrescos de laranja, limão e tamarindo. Definitivamente não tem refresco de abacaxi.
 ~
-
-
 #3203
 barril chaves~
 um barril pesado~
@@ -51,21 +46,18 @@ E
 barril~
 Um enorme barril de madeira que parece ter um significado especial nesta vila.
 ~
-
-
 #3204
 bola redonda~
 uma bola redonda e grande~
 Uma bola redonda e grande está aqui, pronta para uma brincadeira.~
 ~
 12 0 1 0
-2 30 5
+2 30 5 0
+0 0 0
 E
 bola redonda~
 Uma grande bola redonda, perfeita para chutar e brincar.
 ~
-
-
 #3205
 caldeirão bruxa~
 um caldeirão grande~
@@ -78,8 +70,6 @@ E
 caldeirão~
 Um caldeirão grande e antigo, cheio de uma poção borbulhante e misteriosa.
 ~
-
-
 #3206
 album fotos antigas~
 um álbum de fotos antigas~
@@ -92,8 +82,6 @@ E
 familia~
 O álbum contém fotos de uma família feliz, capturando momentos de alegria e celebração.
 ~
-
-
 #3207
 fonte~
 uma fonte de água~
